@@ -21,5 +21,5 @@ The learning objects of this mini project are:
 ![image](https://user-images.githubusercontent.com/81652137/182043084-a62760eb-92a6-4604-8bfe-0ab4cbcfbe6d.png)
 
 ## Log of the last task
-
+### An example of successful execution
 ![image](https://user-images.githubusercontent.com/81652137/182045406-1c03f528-3704-42cc-9605-8aecbf1364ce.png)
