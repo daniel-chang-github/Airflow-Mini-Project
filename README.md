@@ -11,7 +11,12 @@ The learning objects of this mini project are:
 
 
 
-
+#Graph View
 
 ![image](https://user-images.githubusercontent.com/81652137/182043061-5af6547d-2aae-4d35-bcbc-1629d1b78141.png)
+
+
+#Tree View
+
+![image](https://user-images.githubusercontent.com/81652137/182043084-a62760eb-92a6-4604-8bfe-0ab4cbcfbe6d.png)
 
