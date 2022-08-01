@@ -32,3 +32,10 @@ After completing you can use ./stop.sh to stop the services
 ## Log of the last task
 ### An example of successful execution
 ![image](https://user-images.githubusercontent.com/81652137/182045406-1c03f528-3704-42cc-9605-8aecbf1364ce.png)
+
+# Log analyzer
+
+Log analyzer will collect all ERRORs from logs and display them all. It will show the total number of errors, which log the error message is from, and the actual error message.
+
+![image](https://user-images.githubusercontent.com/81652137/182064639-a79a3b00-445b-4177-8a96-ab3c7344dc5f.png)
+
