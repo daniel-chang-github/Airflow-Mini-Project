@@ -18,4 +18,4 @@ def analyze_file(**kwargs):
     pprint(error_lines)
 
 
-print(analyze_file())
+analyze_file()
