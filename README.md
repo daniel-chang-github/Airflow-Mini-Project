@@ -9,6 +9,15 @@ The learning objects of this mini project are:
 - Learn how to monitor automated Airflow DAGs to ensure they are working properly
 
 
+# Docker
+The DAGs are located in mnt/airflow/dags directory
+
+Then execute ./start.sh script. This should build and start all the services.
+Execute docker-compose ps and you should see below.
+![image](https://user-images.githubusercontent.com/81652137/182059729-65793218-b83d-4cd6-8eb1-ce6f94fabbe0.png)
+Go to localhost:8080 for the airflow UI.
+The userid and password is airflow.
+After completing you can use ./stop.sh to stop the services
 
 
 # Graph View
